@@ -19,7 +19,7 @@
 <h3>1.1 Landing Page</h3>
 <h4>When the User land on our webpage, he/she sees a webpage welcoming them to Credit Card Default Prediction and ask them to move further by clicking on the ‘Predict!’ button.</h4>
 <br>
-<img src = "https://user-images.githubusercontent.com/89390696/175022397-e98e4dc7-fcc9-49fa-8f70-b28ab8740695.png">
+<img src = "https://user-images.githubusercontent.com/89390696/175038923-c8a465d1-2aaa-4bc8-bb01-f6144e1c9c52.png">
 <br><br>
 
 <h3>1.2 Predictor Page</h3>
