@@ -1,69 +1,32 @@
-# CreditCardDefaulter
+<h1>Credit Card Default Prediction</h1>
 
-## Dataset
+<h4>The aim of the project was to analyze the dataset and create an ML model that would predict the fare for the flight. We have used Python Libraries for data analysis and model creation (backend) and HTML and CSS for creating Web UI for the project.</h4>
 
-https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
+<h4>You can see and use our project live on : https://credit-card-defaulter-pred.herokuapp.com/</h4>
 
-## Dataset Information
+<br>
 
-This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill
-statements of credit card clients in Taiwan from April 2005 to September 2005.
+<h1>Content</h1>
+<h4>
+1. Web Interface<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.1 Landing Page<br> 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.2 Predictor Page<br> 
+2. User Input<br>
+3. Result Page<br><br>
+</h4>
 
-## Dataset content
+<h2>1. Web Interface</h2>
+<h3>1.1 Landing Page</h3>
+<h4>When the User land on our webpage, he/she sees a webpage welcoming them to Credit Card Default Prediction and ask them to move further by clicking on the ‘Predict!’ button.</h4>
+<br>
+<img src = "https://user-images.githubusercontent.com/89390696/175022397-e98e4dc7-fcc9-49fa-8f70-b28ab8740695.png">
+<br><br>
 
-Content There are 25 variables:
+<h3>1.2 Predictor Page</h3>
+<h4>This is the next page that can be accessed by clicking on ‘Predict!’ button on the homepage or by clicking on predictor tab in the navigation bar on the homepage
+The user sees various fields asking for information that is required to predict the Credit Card Default. Every user input has its own dropdown where the user can select their input.
+After providing the required input and pressing the submit button, the page refreshes and displays the predicted Credit Card Default.</h4>
+<br>
+<img src = "https://user-images.githubusercontent.com/89390696/175022782-46d77bf3-a0da-423a-abff-a9a33170fde5.png">
+<br><br>
 
-ID: ID of each client
-
-LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
-
-SEX: Gender (1=male, 2=female)
-
-EDUCATION: (1=graduate school, 2=university, 3=high school, 4=others, 5=unknown, 6=unknown)
-
-MARRIAGE: Marital status (1=married, 2=single, 3=others)
-
-AGE: Age in years
-
-PAY_0: Repayment status in September, 2005 (-1=pay duly, 1=payment delay for one month, 2=payment delay for two months,
-… 8=payment delay for eight months, 9=payment delay for nine months and above)
-
-PAY_2: Repayment status in August, 2005 (scale same as above)
-
-PAY_3: Repayment status in July, 2005 (scale same as above)
-
-PAY_4: Repayment status in June, 2005 (scale same as above)
-
-PAY_5: Repayment status in May, 2005 (scale same as above)
-
-PAY_6: Repayment status in April, 2005 (scale same as above)
-
-BILL_AMT1: Amount of bill statement in September, 2005 (NT dollar)
-
-BILL_AMT2: Amount of bill statement in August, 2005 (NT dollar)
-
-BILL_AMT3: Amount of bill statement in July, 2005 (NT dollar)
-
-BILL_AMT4: Amount of bill statement in June, 2005 (NT dollar)
-
-BILL_AMT5: Amount of bill statement in May, 2005 (NT dollar)
-
-BILL_AMT6: Amount of bill statement in April, 2005 (NT dollar)
-
-PAY_AMT1: Amount of previous payment in September, 2005 (NT dollar)
-
-PAY_AMT2: Amount of previous payment in August, 2005 (NT dollar)
-
-PAY_AMT3: Amount of previous payment in July, 2005 (NT dollar)
-
-PAY_AMT4: Amount of previous payment in June, 2005 (NT dollar)
-
-PAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)
-
-PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
-
-default.payment.next.month: Default payment (1=yes, 0=no)
-
-## Installation
-
-```pip install -r requirements.txt```
