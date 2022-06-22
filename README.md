@@ -10,9 +10,8 @@
 <h4>
 1. Web Interface<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.1 Landing Page<br> 
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.2 Predictor Page<br> 
-2. User Input<br>
-3. Result Page<br><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.2 Result Page<br> 
+
 </h4>
 
 <h2>1. Web Interface</h2>
