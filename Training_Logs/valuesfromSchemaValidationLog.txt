@@ -1,0 +1,4 @@
+2022-01-20 /09:21:1642650683		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2022-01-20 /16:38:1642676918		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+

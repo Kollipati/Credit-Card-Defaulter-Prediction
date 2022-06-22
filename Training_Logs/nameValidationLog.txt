@@ -1,0 +1,2 @@
+2022-01-20 /09:21:1642650683		valid File name!! File moced to GoodRaw Folder :: creditCardFraud_28011961_120210.csv
+2022-01-20 /16:38:1642676918		valid File name!! File moced to GoodRaw Folder :: creditCardFraud_28011961_120210.csv

@@ -1,0 +1,4 @@
+2022-01-20 /09:21:1642650683		BadRaw directory deleted successfully!!!
+2022-01-20 /09:21:1642650683		GoodRaw directory deleted successfully!!!
+2022-01-20 /16:38:1642676918		BadRaw directory deleted successfully!!!
+2022-01-20 /16:38:1642676918		GoodRaw directory deleted successfully!!!

@@ -1,0 +1,8 @@
+2022-01-20 /09:21:1642650683		Start of Validation on files for Training
+2022-01-20 /09:21:1642650684		Raw data validation Complete!!
+2022-01-20 /09:21:1642650684		Starting Data Transformation!!
+2022-01-20 /09:21:1642650684		Data Transformation Complete!!
+2022-01-20 /16:38:1642676918		Start of Validation on files for Training
+2022-01-20 /16:38:1642676918		Raw data validation Complete!!
+2022-01-20 /16:38:1642676918		Starting Data Transformation!!
+2022-01-20 /16:38:1642676919		Data Transformation Complete!!

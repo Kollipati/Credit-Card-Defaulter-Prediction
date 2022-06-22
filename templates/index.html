@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Credit Card Defaulters</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="static/images/icons/favicon.ico"/>
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="static/vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="static/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="static/vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="static/vendor/css-hamburgers/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="static/vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="static/css/util.css">
+    <link rel="stylesheet" type="text/css" href="static/css/main.css">
+    <!--===============================================================================================-->
+</head>
+<body>
+
+<div class="bg-contact2">
+    <div class="container-contact2">
+        <div class="wrap-contact2">
+            <form class="contact2-form validate-form" action="/predict" method="POST">
+					<span class="contact2-form-title">
+						Credit Card Defaulters
+					</span>
+
+                <div class="wrap-input2 validate-input" data-validate="LIMIT_BAL is required">
+                    <input class="input2" type="number" name="LIMIT_BAL">
+                    <span class="focus-input2" data-placeholder="LIMIT_BAL"></span>
+                </div>
+
+                <div class="wrap-input2 validate-input" data-validate="Sex is required">
+                    <input class="input2" type="number" min="1" step="1" max="2" name="sex">
+                    <span class="focus-input2" data-placeholder="1 = male; 2 = female"></span>
+                </div>
+
+                <div class="wrap-input2 validate-input" data-validate="Education is required">
+                    <input class="input2" type="Number" min="1" step="1" max="4" name="Education">
+                    <span class="focus-input2"
+                          data-placeholder="1 = graduate school; 2 = university; 3 = high school; 4 = others"></span>
+                </div>
+
+                <div class="wrap-input2 validate-input" data-validate="Marriage is required">
+                    <input class="input2" type="Number" min="1" step="1" max="3" name="Marriage">
+                    <span class="focus-input2" data-placeholder="1 = married; 2 = single; 3 = others"></span>
+                </div>
+
+                <div class="wrap-input2 validate-input" data-validate="Age is required">
+                    <input class="input2" type="number" name="Age">
+                    <span class="focus-input2" data-placeholder="Age"></span>
+                </div>
+
+                <div class="wrap-input2 validate-input" data-validate="Pay-0 is required">
+                    <input class="input2" type="number" name="pay0">
+                    <span class="focus-input2" data-placeholder="Pay-0"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="Pay-2 is required">
+                    <input class="input2" type="number" name="pay2">
+                    <span class="focus-input2" data-placeholder="Pay-2"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="Pay-3 is required">
+                    <input class="input2" type="number" name="pay3">
+                    <span class="focus-input2" data-placeholder="Pay-3"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="Pay-4 is required">
+                    <input class="input2" type="number" name="pay4">
+                    <span class="focus-input2" data-placeholder="Pay-4"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="Pay-5 is required">
+                    <input class="input2" type="number" name="pay5">
+                    <span class="focus-input2" data-placeholder="Pay-5"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="Pay-6 is required">
+                    <input class="input2" type="number" name="pay6">
+                    <span class="focus-input2" data-placeholder="Pay-6"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="BILL_AMT1 is required">
+                    <input class="input2" type="number" name="bill1">
+                    <span class="focus-input2" data-placeholder="BILL_AMT1"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="BILL_AMT2 is required">
+                    <input class="input2" type="number" name="bill2">
+                    <span class="focus-input2" data-placeholder="BILL_AMT2"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="BILL_AMT3 is required">
+                    <input class="input2" type="number" name="bill3">
+                    <span class="focus-input2" data-placeholder="BILL_AMT3"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="BILL_AMT4 is required">
+                    <input class="input2" type="number" name="bill4">
+                    <span class="focus-input2" data-placeholder="BILL_AMT4"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="BILL_AMT5 is required">
+                    <input class="input2" type="number" name="bill5">
+                    <span class="focus-input2" data-placeholder="BILL_AMT5"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="BILL_AMT6 is required">
+                    <input class="input2" type="number" name="bill6">
+                    <span class="focus-input2" data-placeholder="BILL_AMT6"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="PAY_AMT1 is required">
+                    <input class="input2" type="number" name="payam1">
+                    <span class="focus-input2" data-placeholder="PAY_AMT1"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="PAY_AMT2 is required">
+                    <input class="input2" type="number" name="payam2">
+                    <span class="focus-input2" data-placeholder="PAY_AMT2"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="PAY_AMT3 is required">
+                    <input class="input2" type="number" name="payam3">
+                    <span class="focus-input2" data-placeholder="PAY_AMT3"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="PAY_AMT4 is required">
+                    <input class="input2" type="number" name="payam4">
+                    <span class="focus-input2" data-placeholder="PAY_AMT4"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="PAY_AMT5 is required">
+                    <input class="input2" type="number" name="payam5">
+                    <span class="focus-input2" data-placeholder="PAY_AMT5"></span>
+                </div>
+                <div class="wrap-input2 validate-input" data-validate="PAY_AMT6 is required">
+                    <input class="input2" type="number" name="payam6">
+                    <span class="focus-input2" data-placeholder="PAY_AMT6"></span>
+                </div>
+
+
+                <div class="container-contact2-form-btn">
+                    <div class="wrap-contact2-form-btn">
+                        <div class="contact2-form-bgbtn"></div>
+                        <button class="contact2-form-btn">
+                            Submit Your Response
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<!--===============================================================================================-->
+<script src="static/vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+<script src="static/vendor/bootstrap/js/popper.js"></script>
+<script src="static/vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+<script src="static/vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+<script src="static/js/main.js"></script>
+
+</body>
+</html>
