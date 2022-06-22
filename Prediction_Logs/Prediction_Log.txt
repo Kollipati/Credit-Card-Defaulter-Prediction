@@ -1,0 +1,82 @@
+2022-01-21 /14:23:1642755227		Start of Prediction
+2022-01-21 /14:23:1642755227		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:23:1642755227		Model File: scaler loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:23:1642755227		Scaled model loaded
+2022-01-21 /14:23:1642755227		Error occured while running the prediction!! Error:: 'prediction' object has no attribute 'log_writter'
+2022-01-21 /14:27:1642755474		Start of Prediction
+2022-01-21 /14:27:1642755474		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:27:1642755474		Model File: scaler loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:27:1642755474		Scaled model loaded
+2022-01-21 /14:27:1642755474		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:27:1642755474		Model File: Kmeans loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:27:1642755475		Clustering model loaded
+2022-01-21 /14:27:1642755475		Entered the find_correct_model_file method of the File_Operation class for finding the correct model
+2022-01-21 /14:27:1642755475		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2022-01-21 /14:27:1642755475		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2022-01-21 /14:27:1642755475		Error occured while running the prediction!! Error:: 
+2022-01-21 /14:36:1642755991		Start of Prediction
+2022-01-21 /14:36:1642755991		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:36:1642755991		Model File: scaler loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:36:1642755991		Scaled model loaded
+2022-01-21 /14:36:1642755991		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:36:1642755991		Model File: Kmeans loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:36:1642755991		Clustering model loaded
+2022-01-21 /14:36:1642755991		Entered the find_correct_model_file method of the File_Operation class for finding the correct model
+2022-01-21 /14:36:1642755991		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2022-01-21 /14:36:1642755991		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2022-01-21 /14:36:1642755991		Error occured while running the prediction!! Error:: 
+2022-01-21 /14:40:1642756231		Start of Prediction
+2022-01-21 /14:40:1642756231		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:40:1642756231		Model File: scaler loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:40:1642756231		Scaled model loaded
+2022-01-21 /14:40:1642756231		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:40:1642756231		Model File: Kmeans loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:40:1642756231		Clustering model loaded
+2022-01-21 /14:40:1642756231		Entered the find_correct_model_file method of the File_Operation class for finding the correct model
+2022-01-21 /14:40:1642756231		Exited the find_correct_model_file method of the Model_Finder class.
+2022-01-21 /14:40:1642756231		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:40:1642756231		Model File: NaiveBayes0 loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:44:1642756485		Start of Prediction
+2022-01-21 /14:44:1642756485		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:44:1642756485		Model File: scaler loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:44:1642756485		Scaled model loaded
+2022-01-21 /14:44:1642756485		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:44:1642756485		Model File: Kmeans loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:44:1642756485		Clustering model loaded
+2022-01-21 /14:44:1642756485		Entered the find_correct_model_file method of the File_Operation class for finding the correct model
+2022-01-21 /14:44:1642756485		Exited the find_correct_model_file method of the Model_Finder class.
+2022-01-21 /14:44:1642756485		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:44:1642756485		Model File: NaiveBayes0 loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:46:1642756585		Start of Prediction
+2022-01-21 /14:46:1642756585		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:46:1642756585		Model File: scaler loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:46:1642756585		Scaled model loaded
+2022-01-21 /14:46:1642756585		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:46:1642756585		Model File: Kmeans loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:46:1642756585		Clustering model loaded
+2022-01-21 /14:46:1642756585		Entered the find_correct_model_file method of the File_Operation class for finding the correct model
+2022-01-21 /14:46:1642756585		Exited the find_correct_model_file method of the Model_Finder class.
+2022-01-21 /14:46:1642756585		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:46:1642756585		Model File: NaiveBayes0 loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:54:1642757071		Start of Prediction
+2022-01-21 /14:54:1642757071		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:54:1642757071		Model File: scaler loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:54:1642757071		Scaled model loaded
+2022-01-21 /14:54:1642757071		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:54:1642757071		Model File: Kmeans loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /14:54:1642757071		Clustering model loaded
+2022-01-21 /14:54:1642757072		Entered the find_correct_model_file method of the File_Operation class for finding the correct model
+2022-01-21 /14:54:1642757072		Exited the find_correct_model_file method of the Model_Finder class.
+2022-01-21 /14:54:1642757072		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /14:54:1642757072		Model File: NaiveBayes0 loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /23:13:1642787007		Start of Prediction
+2022-01-21 /23:13:1642787007		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /23:13:1642787007		Model File: scaler loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /23:13:1642787007		Scaled model loaded
+2022-01-21 /23:13:1642787007		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /23:13:1642787007		Model File: Kmeans loaded. Exited the load_model method of the Model_Finder class
+2022-01-21 /23:13:1642787007		Clustering model loaded
+2022-01-21 /23:13:1642787007		Entered the find_correct_model_file method of the File_Operation class for finding the correct model
+2022-01-21 /23:13:1642787007		Exited the find_correct_model_file method of the Model_Finder class.
+2022-01-21 /23:13:1642787007		Entered the load_model method of the File_Operations class for loading the model
+2022-01-21 /23:13:1642787007		Model File: NaiveBayes0 loaded. Exited the load_model method of the Model_Finder class
