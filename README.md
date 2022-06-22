@@ -22,11 +22,11 @@
 <img src = "https://user-images.githubusercontent.com/89390696/175038923-c8a465d1-2aaa-4bc8-bb01-f6144e1c9c52.png">
 <br><br>
 
-<h3>1.2 Predictor Page</h3>
+<h2>1.2 Result Page</h2>
 <h4>This is the next page that can be accessed by clicking on ‘Predict!’ button on the homepage or by clicking on predictor tab in the navigation bar on the homepage
 The user sees various fields asking for information that is required to predict the Credit Card Default. Every user input has its own dropdown where the user can select their input.
 After providing the required input and pressing the submit button, the page refreshes and displays the predicted Credit Card Default.</h4>
 <br>
-<img src = "https://user-images.githubusercontent.com/89390696/175022782-46d77bf3-a0da-423a-abff-a9a33170fde5.png">
+<img src = "https://user-images.githubusercontent.com/89390696/175039566-0edf7041-dccf-4238-86d4-38169c611454.png">
 <br><br>
 
