@@ -1,11 +1,3 @@
-"""
-This is the Entry point for Training the Machine Learning Model.
-
-Written By: swapnil sonawane
-Version: 1.0
-Revisions: None
-
-"""
 
 from sklearn.model_selection import train_test_split
 
